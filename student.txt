@@ -1,0 +1,6 @@
+mayuu,80
+rahul,30
+priya,70
+aman,95
+rohan,50
+karan,abc

@@ -1,0 +1,20 @@
+# Mini E-Commerce Database
+
+Tables:
+- customers
+- orders
+- products
+- order_items
+
+Concepts:
+- Primary Key
+- Foreign Key
+- INNER JOIN
+- LEFT JOIN
+- Aggregations
+- Revenue Analytics
+
+Business Questions Solved:
+- Customer purchases
+- Revenue by customer
+- Most sold product
